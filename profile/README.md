@@ -2,4 +2,4 @@
 
 [Get Well Soon!](http://dave.isthebest.ts.net)
 
-[Join us](https://login.tailscale.com/)
+[Join our tailnet!](https://login.tailscale.com/)
